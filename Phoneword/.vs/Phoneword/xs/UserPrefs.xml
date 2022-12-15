@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{96E080EC-7A8A-4526-99C8-26B6FA8C21E7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/PhonewordTranslator.cs">
+    <Files>
+      <File FileName="Phoneword/MainPage.xaml.cs" Line="32" Column="14" />
+      <File FileName="Phoneword/MainPage.xaml" Line="22" Column="1" />
+      <File FileName="Phoneword/PhonewordTranslator.cs" Line="14" Column="45" />
+      <File FileName="Phoneword/Platforms/Android/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phoneword" expanded="True">
+            <Node name="Phoneword" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="AndroidManifest.xml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
